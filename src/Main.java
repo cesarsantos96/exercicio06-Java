@@ -5,8 +5,8 @@ public class Main {
 
         Agenda minhaAgenda = new Agenda();
 
-        Contato contato1 = new Contato("Fernanda", "68 99992-0011", "fernanda@email.com");
-        Contato contato2 = new Contato("Priscila", "62 98765-1245", "priscila@email.com");
+            Contato contato1 = new Contato("Maria", "68 99992-0011", "maria@email.com");
+        Contato contato2 = new Contato("Juliana", "62 98765-1245", "juliana@email.com");
 
 
 
